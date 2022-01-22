@@ -1,10 +1,10 @@
 # Operating-System
 
-<h2>The Repo include <br>
-  *(Assignments, Manuals and MidTermExam). <br><br>
-  </h2>
-  <h3>Also Operating System Lab Folder which include</h3><br> 
-  *(Assignments, Lab Task Solutions and lab manuals).
+<h2>The Repo include <br></h2>
+  <h3>***(Assignments, Manuals and MidTermExam). <br><br></h3>
+  
+  <h2>Also Operating System Lab Folder which include</h2><br> 
+ <h3>***(Assignments, Lab Task Solutions and lab manuals).<br><br></h3>
 
 I have only few slides of operating system course.
 below the link to access the video lectures.
